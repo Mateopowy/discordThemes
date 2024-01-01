@@ -1,0 +1,11 @@
+@import url('https://raw.githubusercontent.com/momcilovicluka/discord/master/themes/SoftX.theme.css')
+@import url('https://crearts-community.github.io/Settings-Icons/clients/settings-icons.theme.css')
+@import url('https://fonts.googleapis.com/css2?family=Pixelify+Sans&display=swap');
+*{font-family:'Pixelify Sans'!important;gap:3px;letter-spacing: .15px}
+div{border-radius:7px!important}
+
+:root {
+    --settingsicons: 1;
+    --si-size: 15px;
+    --si-gap: 14px;
+}
